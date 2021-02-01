@@ -12,8 +12,8 @@ pipeline {
 
     environment {
         //TODO: Customize these variables for your environment
-        DEV_PROJECT = "slibonati-movies-dev"
-        STAGE_PROJECT = "slibonati-movies-stage"
+        DEV_PROJECT = "slibonat-movies-dev"
+        STAGE_PROJECT = "slibonat-movies-stage"
         APP_GIT_URL = "https://github.com/slibonati/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.cluster.domain.example.com/repository/java"
 
